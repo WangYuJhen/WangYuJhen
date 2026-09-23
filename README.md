@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WangYuJhen
-- 👀 I’m interested in 唱歌 追愈 
+- 👀 I’m interested in 唱歌 追劇
 - 🌱 I’m currently learning 航運管理學
 - 💞️ I’m looking to collaborate on F1
 - 📫 How to reach me ...利用電子郵件a0985985482@gmail.com
