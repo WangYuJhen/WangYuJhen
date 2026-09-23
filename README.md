@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WangYuJhen
-- 👀 I’m interested in 聽音樂 看影集 看籃球 看樂高 看飛行器
+- 👀 I’m interested in 聽音樂 看影集 
 - 🌱 I’m currently learning 航運管理學
 - 💞️ I’m looking to collaborate on 還是學生
 - 📫 How to reach me ...利用電子郵件a0985985482@gmail.com
