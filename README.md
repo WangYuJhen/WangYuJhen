@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @WangYuJhen
-- 👀 I’m interested in 聽音樂 看影集 
+- 👀 I’m interested in 唱歌 追愈 
 - 🌱 I’m currently learning 航運管理學
-- 💞️ I’m looking to collaborate on 還是學生
+- 💞️ I’m looking to collaborate on F1
 - 📫 How to reach me ...利用電子郵件a0985985482@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 我有養貓
+- ⚡ Fun fact: I have a fat cat 
 
 <!---
 WangYuJhen/WangYuJhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
