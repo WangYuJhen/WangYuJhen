@@ -5,7 +5,9 @@
 - 📫 How to reach me ...利用電子郵件a0985985482@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a fat cat 
-
+- intern:台南航空站、亞洲航空公司
+- lisence:Sabre,toeic
+- future job:china airline
 <!---
 WangYuJhen/WangYuJhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
