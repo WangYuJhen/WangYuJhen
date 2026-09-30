@@ -8,6 +8,7 @@
 - intern:台南航空站、亞洲航空公司
 - lisence:Sabre,toeic
 - future job:china airline
+- Pass Module 2 Knowledge Check
 <!---
 WangYuJhen/WangYuJhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
